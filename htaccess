@@ -1,0 +1,5 @@
+# See your public IP here: https://whatismyipaddress.com/
+<RequireAll>
+    Require ip **REPLACE_WITH_YOUR_IP**
+    Require all denied
+</RequireAll>
